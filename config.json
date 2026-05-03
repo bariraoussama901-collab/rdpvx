@@ -1,6 +1,4 @@
 {
-  "enabled": false ,
-  "message": "Cheat is active and working",
-  "version": "1.0",
-  "last_update": "2026-05-03"
+  "enabled": false,
+  "message": "Test - Should be disabled"
 }
